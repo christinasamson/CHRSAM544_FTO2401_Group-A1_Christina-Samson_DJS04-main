@@ -1,5 +1,6 @@
 // Importing data and constants from data.js file
 import { books, authors, genres, BOOKS_PER_PAGE } from "./data.js";
+import './book-preview.js';
   // Function to create HTML elements with specified attributes and innerHTML
   /**
  *
